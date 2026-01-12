@@ -1,0 +1,174 @@
+#EXTM3U
+#EXTINF:-1 group-title="FOOTBALL VIỆT NAM",TV360 Live
+https://toiyeuvietnam.dpdns.org/CoBan/tv360.live/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 group-title="FOOTBALL VIỆT NAM", BLV BRIAN
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1766744189-0-0-ac4779c6f88ad715ba319ad51854c925
+#EXTINF:-1 group-title="FOOTBALL VIỆT NAM", BLV YẾN THANH
+https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:-1 group-title="FOOTBALL VIỆT NAM", BLV LÝ QUỲ
+https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:-1 group-title="FOOTBALL VIỆT NAM", BLV SHIN
+https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+#EXTINF:-1 group-title="FOOTBALL VIỆT NAM", LIVE ALEX
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai2.m3u8
+#EXTINF:-1 group-title="FOOTBALL VIỆT NAM", LIVE CỤ GIÀ
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhda_full-hd.m3u8
+#EXTINF:-1 group-title="FOOTBALL VIỆT NAM", LIVE CHYM
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1_full-hd.m3u8
+#EXTINF:-1 group-title="FOOTBALL VIỆT NAM", BLV BÚN 
+https://livestream.waebox.com/live/0dq4pt7si9/playlist.m3u8 
+#EXTINF:-1 group-title="FOOTBALL VIỆT NAM", BLV ADAM 
+https://livestream.waebox.com/live/mjap0rrqv8/playlist.m3u8
+#EXTINF:-1 group-title="FOOTBALL VIỆT NAM", BLV CÁ VIÊN
+https://live.sladdogg.com/OBS/11/index.m3u8
+#EXTINF:-1 group-title="FOOTBALL VIỆT NAM", BLV NGƯỜI KIẾN
+https://live.sladdogg.com/OBS/04/index.m3u8
+#EXTINF:-1 group-title="FOOTBALL VIỆT NAM", BLV LÀNG CỒN
+https://live.sladdogg.com/OBS/10/index.m3u8 
+#EXTINF:-1 group-title="FOOTBALL VIỆT NAM", BLV ZORRO
+https://live.sladdogg.com/OBS/07/index.m3u8
+#EXTINF:-1 group-title="FOOTBALL VIỆT NAM", HTV THỂ THAO 
+https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="BASKETBALL", NBA
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1767191130-0-0-0ca351f1968649f371c52a6a17246c38
+#EXTINF:-1 group-title="BASKETBALL",CHAN SENA
+https://live.inplyr.com/room/515530.m3u8
+#EXTINF:-1 group-title="BASKETBALL",YẾN THANH
+https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:-1 group-title="TENNIS", LIVE TENNIS 1
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
+#EXTINF:-1 group-title="TENNIS", Sky Sport Tennis
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157768.ts
+#EXTINF:-1 group-title="TENNIS", LIVE TENNIS 3
+https://7pal.short.gy/skyspt1nz
+#EXTINF:-1 group-title="TENNIS", Tennis Channel 
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8 
+#EXTINF:-1 group-title="TENNIS", TENNIS + 
+https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8 
+#EXTINF:-1 group-title="TENNIS", TENNIS CLASSIC
+https://amg01470-amg01470c1-freelivesports-emea-9021.playouts.now.amagi.tv/playlist/amg01470-atpmediaoperationsltdfast-tennistvclassics-freelivesportsemea/playlist.m3u8
+#EXTINF:-1 group-title="TENNIS", PICKLE TV 
+https://fce26776.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X1BpY2tsZVRWX0hMUw/playlist.m3u8
+#EXTINF:-1 group-title="LIVESPORT", Polsat Sport 1
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=14740&extension=ts&play_token=jPBbeLu7rI
+#EXTINF:-1 group-title="LIVESPORT", Polsat Sport 2
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=233715&extension=ts&play_token=klT8fyTCz5
+#EXTINF:-1 group-title="LIVESPORT", Polsat Sport 3
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=233716&extension=ts&play_token=PSYS8qYMEV
+#EXTINF:-1 group-title="LIVESPORT", Max Sport 1
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=31801&extension=ts&play_token=MAaXIbHwPF
+#EXTINF:-1 group-title="LIVESPORT", Max Sport 2
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=31802&extension=ts&play_token=oKVP0gjuIKp
+#EXTINF:-1 group-title="LIVESPORT", Max Sport 4
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=31804&extension=ts&play_token=h5UuqXNs2K
+#EXTINF:-1 group-title="LIVESPORT", Canal+ Foot
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1071923&extension=ts&play_token=vcQAIeKouv
+#EXTINF:-1 group-title="LIVESPORT", Canal+ Sport
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1184930&extension=ts&play_token=fHBckk00nW
+#EXTINF:-1 group-title="LIVESPORT", SPOTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
+#EXTINF:-1 group-title="LIVESPORT", SPOTV2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
+#EXTINF:-1 group-title="LIVESPORT", DUBAI SPORTS 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="LIVESPORT", DUBAI SPORTS 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="TNT", TNT Sports 1 
+http://2.magmas5.com:8000/live/XXXR3str3amLine/200conxxxxQ41/134129.ts
+#EXTINF:-1 group-title="TNT", TNT UHD 4K 1
+https://7pal.short.gy/tntspts1
+#EXTINF:-1 group-title="TNT", TNT Sports 2 
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157969.ts
+#EXTINF:-1 group-title="TNT", TNT UHD 4K 2
+https://7pal.short.gy/tntspts2
+#EXTINF:-1 group-title="TNT", TNT Sports 3 
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157972.ts
+#EXTINF:-1 group-title="TNT", TNT UHD 4K 3
+https://7pal.short.gy/tntspts3
+#EXTINF:-1 group-title="TNT", TNT Sports 4
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157975.ts
+#EXTINF:-1 group-title="TNT", TNT UHD 4K 4
+https://7pal.short.gy/tntspts4
+#EXTINF:-1 group-title="TNT", TNT Sports 5
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157977.ts
+#EXTINF:-1 group-title="SKY", Sky UHD 4Ks 3 NZ
+https://7pal.short.gy/skyspt3nz
+#EXTINF:-1 group-title="SKY", Sky UHD 4Ks 1 NZ
+https://7pal.short.gy/skyspt1nz
+#EXTINF:-1 group-title="SKY", Sky Sport Tennis
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157768.ts
+#EXTINF:-1 group-title="SKY", Sky UHD 4Ks Main Event
+https://7pal.short.gy/skspmaine
+#EXTINF:-1 group-title="SKY", Sky Sport Mix
+http://2.magmas5.com:8000/live/XXXR3str3amLine/200conxxxxQ41/145813.ts
+#EXTINF:-1 group-title="SKY", Sky UHD 4Ks 4 NZ
+https://7pal.short.gy/skyspt4nz
+#EXTINF:-1 group-title="SKY", Sky UHD 4Ks 2 NZ 
+https://7pal.short.gy/skyspt2nz
+#EXTINF:-1 group-title="SKY" tvg-id="sky-UHD 4Ks-action", Sky UHD 4Ks Action
+https://7pal.short.gy/sUHD 4Ksat
+#EXTINF:-1 group-title="SKY", Sky UHD 4Ks Golf
+https://7pal.short.gy/sUHD 4Ksgf
+#EXTINF:-1 group-title="SKY", Sky Sport F1
+http://2.magmas5.com:8000/live/XXXR3str3amLine/200conxxxxQ41/218103.ts
+#EXTINF:-1 group-title="SKY", Sky UHD 4Ks FORMULA ONE
+https://7pal.short.gy/sUHD 4Ksf1
+#EXTINF:-1 group-title="SKY", Sky UHD 4Ks F1 UHD
+https://7pal.short.gy/SSF1uhd
+#EXTINF:-1 group-title="SKY", Sky UHD 4Ks Football
+https://7pal.short.gy/sUHD 4Ksfb
+#EXTINF:-1 group-title="SKY", Sky UHD 4Ks Premier League
+https://7pal.short.gy/sUHD 4Kspl
+#EXTINF:-1 group-title="SKY", Sky UHD 4Ks News
+https://7pal.short.gy/sUHD 4Ksnw
+#EXTINF:-1 group-title="COMBAT", UFA
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/united-fight-alliance/master.m3u8
+#EXTINF:-1 group-title="COMBAT", UFC
+https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_channelId=99951134
+#EXTINF:-1 group-title="COMBAT", MMA
+https://streams2.sofast.tv/ptnr-sportstrible/title-MMA_Sportstrible/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/f6b049e4-885e-4551-85ac-8eef0b33d3a2/playlist.m3u8
+#EXTINF:-1 group-title="COMBAT", DAZN TV
+https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
+#EXTINF:-1 group-title="COMBAT", FIGHT SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000163/1024.m3u8
+#EXTINF:-1 group-title="COMBAT",  PFL
+https://d856dff4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWdiX1BGTE1NQV9ITFM/playlist.m3u8
+#EXTINF:-1 group-title="COMBAT", COMBAT
+https://dbrb49pjoymg4.cloudfront.net/10001/99991696/hls/playlist.m3u8?ads.xumo_channelId=99991696
+#EXTINF:-1 group-title="COMBAT", PFL MMA
+https://dbrb49pjoymg4.cloudfront.net/10001/99951203/hls/playlist.m3u8?ads.xumo_channelId=99951203
+#EXTINF:-1 group-title="COMBAT", GLORY
+https://dbrb49pjoymg4.cloudfront.net/10001/99991278/hls/playlist.m3u8?ads.xumo_channelId=99991278
+#EXTINF:-1 group-title="COMBAT", TNA Wrestling Channel
+https://dbrb49pjoymg4.cloudfront.net/10001/99991341/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991341
+#EXTINF:-1 group-title="COMBAT", MMA Junkie
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mma-junkie/master.m3u8
+#EXTINF:-1 group-title="COMBAT",BeiN UHD 4Ks Extra 🇺🇸 
+https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
+#EXTINF:-1 group-title="COMBAT", BEIN XTRA
+https://bein-xtra-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="SPORT",ArenaSport 1
+http://195.26.87.150/ArenaSport1/index.m3u8
+#EXTINF:-1 group-title="SPORT",NovaSport 1
+http://195.26.87.150/NovaSport1/index.m3u8
+#EXTINF:-1 group-title="SPORT",Eurosport HD
+http://151.80.18.177:86/Eurosport_HD/index.m3u8
+#EXTINF:-1 group-title="SPORT",Eurosport2 HD
+http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
+#EXTINF:-1 group-title="SPORT",REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 group-title="SPORT",STRONGMAN CHAMPIONS LEAGUE
+https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_StrongmanChampionsLeague/e21d95be-bbb1-442c-bd84-71813dc764ce/0.m3u8
+#EXTINF:-1 group-title="SPORT", SPORTS TV
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+#EXTINF:-1 group-title="SPORT", DUBAI SPORTS 1
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="SPORT",GOAL TV 
+https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8 
+#EXTINF:-1 group-title="SPORT", Billiards+ 
+https://streams2.sofast.tv/WiseM3U8_18/sofast/cleanhls/master.m3u8 
+#EXTINF:-1 group-title="SPORT", SONY TEN
+http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=7245&deviceMac=00:1A:79:B0:A9:0C 
