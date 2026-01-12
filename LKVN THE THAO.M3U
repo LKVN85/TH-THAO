@@ -1,14 +1,10 @@
 #EXTM3U
 #EXTINF:-1 group-title="FOOTBALL VIỆT NAM",TV360 Live
 https://toiyeuvietnam.dpdns.org/CoBan/tv360.live/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 group-title="FOOTBALL VIỆT NAM", BLV BRIAN
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1766744189-0-0-ac4779c6f88ad715ba319ad51854c925
-#EXTINF:-1 group-title="FOOTBALL VIỆT NAM", BLV YẾN THANH
-https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:-1 group-title="FOOTBALL VIỆT NAM", BLV LÝ QUỲ
-https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
-#EXTINF:-1 group-title="FOOTBALL VIỆT NAM", BLV SHIN
-https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+https://pull.dodotvstream.top/live/830942519.flv
+https://pull.dodotvstream.top/live/785848201.flv
+https://pull.dodotvstream.top/live/313197753.flv
+https://pull.dodotvstream.top/live/355162317.flv
 #EXTINF:-1 group-title="FOOTBALL VIỆT NAM", LIVE ALEX
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai2.m3u8
 #EXTINF:-1 group-title="FOOTBALL VIỆT NAM", LIVE CỤ GIÀ
@@ -27,14 +23,26 @@ https://live.sladdogg.com/OBS/04/index.m3u8
 https://live.sladdogg.com/OBS/10/index.m3u8 
 #EXTINF:-1 group-title="FOOTBALL VIỆT NAM", BLV ZORRO
 https://live.sladdogg.com/OBS/07/index.m3u8
+#EXTINF:-1 group-title="BLV TOPTOP", BLV ỐNG BƠ
+https://live.sladdogg.com/OBS/08/index.m3u8
 #EXTINF:-1 group-title="FOOTBALL VIỆT NAM", HTV THỂ THAO 
 https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="BASKETBALL", NBA
+#EXTINF:-1 group-title="BASKETBALL", BLV KING
 https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1767191130-0-0-0ca351f1968649f371c52a6a17246c38
-#EXTINF:-1 group-title="BASKETBALL",CHAN SENA
+#EXTINF:-1 group-title="BASKETBALL",BLV CHAN SENA
 https://live.inplyr.com/room/515530.m3u8
+#EXTINF:-1 group-title="BASKETBALL", BLV BRIAN
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1766744189-0-0-ac4779c6f88ad715ba319ad51854c925
+#EXTINF:-1 group-title="BASKETBALL", BLV LÝ QUỲ
+https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:-1 group-title="BASKETBALL", BLV SHIN
+https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
 #EXTINF:-1 group-title="BASKETBALL",YẾN THANH
 https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:-1 group-title="BASKETBALL", BLV HENDRY
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1767486390-0-0-dadecb45d54897affa70b5176579b53d
+#EXTINF:-1 group-title="BASKETBALL", BLV HUNTER
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1767947011-0-0-ffde739c49aeaa1993c3158a2b3940e8
 #EXTINF:-1 group-title="TENNIS", LIVE TENNIS 1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
 #EXTINF:-1 group-title="TENNIS", Sky Sport Tennis
@@ -146,9 +154,9 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991278/hls/playlist.m3u8?ads.xumo_c
 https://dbrb49pjoymg4.cloudfront.net/10001/99991341/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991341
 #EXTINF:-1 group-title="COMBAT", MMA Junkie
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mma-junkie/master.m3u8
-#EXTINF:-1 group-title="COMBAT",BeiN UHD 4Ks Extra 🇺🇸 
+#EXTINF:-1 group-title="SPORT",BeiN UHD 4Ks Extra 🇺🇸 
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
-#EXTINF:-1 group-title="COMBAT", BEIN XTRA
+#EXTINF:-1 group-title="SPORT", BEIN XTRA
 https://bein-xtra-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="SPORT",ArenaSport 1
 http://195.26.87.150/ArenaSport1/index.m3u8
@@ -171,4 +179,5 @@ https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8
 #EXTINF:-1 group-title="SPORT", Billiards+ 
 https://streams2.sofast.tv/WiseM3U8_18/sofast/cleanhls/master.m3u8 
 #EXTINF:-1 group-title="SPORT", SONY TEN
+
 http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=7245&deviceMac=00:1A:79:B0:A9:0C 
