@@ -21,10 +21,12 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_2.m3u8
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3.m3u8
 #EXTINF:-1 group-title="FOOTBALL VIỆT NAM", SÚP LƯƠN
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon.m3u8
-#EXTINF:-1 group-title="FOOTBALL VIỆT NAM", LIVE QUÊ CHOA 1
+#EXTINF:-1 group-title="FOOTBALL VIỆT NAM", LIVE QUÊ CHOA 
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_3.m3u8
-#EXTINF:-1 group-title="FOOTBALL VIỆT NAM", LIVE QUÊ CHOA 2
+#EXTINF:-1 group-title="FOOTBALL VIỆT NAM", LIVE QUÊ CHOA 1
 https://live.quechoacdn.live/61d6afe29ba00790787c1565a1bbebc6/blv1/hls_blv1/index.m3u8
+#EXTINF:-1 group-title="FOOTBALL VIỆT NAM", LIVE QUÊ CHOA 2
+https://live.quechoacdn.live/78fe5336e9d38fb54009f284611285d4/blv2/hls_blv2/index.m3u8
 #EXTINF:-1 group-title="FOOTBALL VIỆT NAM", LIVE QUÊ CHOA 3
 https://live.quechoacdn.live/41ba827db6f7fc8006a763bf2b7302ce/blv3/hls_blv3/index.m3u8
 #EXTINF:-1 group-title="FOOTBALL VIỆT NAM", BLV BÚN 
@@ -204,3 +206,4 @@ https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8
 https://streams2.sofast.tv/WiseM3U8_18/sofast/cleanhls/master.m3u8 
 #EXTINF:-1 group-title="SPORT", SONY TEN
 http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=7245&deviceMac=00:1A:79:B0:A9:0C 
+
