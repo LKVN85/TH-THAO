@@ -23,7 +23,7 @@ https://live.sladdogg.com/OBS/04/index.m3u8
 https://live.sladdogg.com/OBS/10/index.m3u8 
 #EXTINF:-1 group-title="FOOTBALL VIỆT NAM", BLV ZORRO
 https://live.sladdogg.com/OBS/07/index.m3u8
-#EXTINF:-1 group-title="BLV TOPTOP", BLV ỐNG BƠ
+#EXTINF:-1 group-title="FOOTBALL VIỆT NAM", BLV ỐNG BƠ
 https://live.sladdogg.com/OBS/08/index.m3u8
 #EXTINF:-1 group-title="FOOTBALL VIỆT NAM", HTV THỂ THAO 
 https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
@@ -43,9 +43,11 @@ https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d9
 https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1767486390-0-0-dadecb45d54897affa70b5176579b53d
 #EXTINF:-1 group-title="BASKETBALL", BLV HUNTER
 https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1767947011-0-0-ffde739c49aeaa1993c3158a2b3940e8
+https://pull.dodotvstream.top/live/335163159.flv
+https://pull.dodotvstream.top/live/290535876.flv
 #EXTINF:-1 group-title="TENNIS", LIVE TENNIS 1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
-#EXTINF:-1 group-title="TENNIS", Sky Sport Tennis
+#EXTINF:-1 group-title="TENNIS", LIVE TENNIS 2
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157768.ts
 #EXTINF:-1 group-title="TENNIS", LIVE TENNIS 3
 https://7pal.short.gy/skyspt1nz
@@ -179,5 +181,4 @@ https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8
 #EXTINF:-1 group-title="SPORT", Billiards+ 
 https://streams2.sofast.tv/WiseM3U8_18/sofast/cleanhls/master.m3u8 
 #EXTINF:-1 group-title="SPORT", SONY TEN
-
 http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=7245&deviceMac=00:1A:79:B0:A9:0C 
