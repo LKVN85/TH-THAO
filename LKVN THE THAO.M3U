@@ -11,10 +11,32 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai2.m3u8
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhda_full-hd.m3u8
 #EXTINF:-1 group-title="FOOTBALL VIỆT NAM", LIVE CHYM
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1_full-hd.m3u8
+#EXTINF:-1 group-title="FOOTBALL VIỆT NAM", LIVE KHU MẤN
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_lachanh.m3u8
+#EXTINF:-1 group-title="FOOTBALL VIỆT NAM", THIÊN ĐÔ
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_cudo_full-hd.m3u8
+#EXTINF:-1 group-title="FOOTBALL VIỆT NAM", KHOAI TÂY
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_2.m3u8
+#EXTINF:-1 group-title="FOOTBALL VIỆT NAM", VĂN MINH
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3.m3u8
+#EXTINF:-1 group-title="FOOTBALL VIỆT NAM", SÚP LƯƠN
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon.m3u8
+#EXTINF:-1 group-title="FOOTBALL VIỆT NAM", LIVE QUÊ CHOA 1
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_3.m3u8
+#EXTINF:-1 group-title="FOOTBALL VIỆT NAM", LIVE QUÊ CHOA 2
+https://live.quechoacdn.live/61d6afe29ba00790787c1565a1bbebc6/blv1/hls_blv1/index.m3u8
+#EXTINF:-1 group-title="FOOTBALL VIỆT NAM", LIVE QUÊ CHOA 3
+https://live.quechoacdn.live/41ba827db6f7fc8006a763bf2b7302ce/blv3/hls_blv3/index.m3u8
 #EXTINF:-1 group-title="FOOTBALL VIỆT NAM", BLV BÚN 
 https://livestream.waebox.com/live/0dq4pt7si9/playlist.m3u8 
 #EXTINF:-1 group-title="FOOTBALL VIỆT NAM", BLV ADAM 
 https://livestream.waebox.com/live/mjap0rrqv8/playlist.m3u8
+#EXTINF:-1 group-title="FOOTBALL VIỆT NAM", BLV TÔM MÌ 
+https://livestream.waebox.com/live/384vepruzs/playlist.m3u8
+#EXTINF:-1 group-title="FOOTBALL VIỆT NAM", BLV BED 
+https://livestream.waebox.com/live/aklh087186/playlist.m3u8
+#EXTINF:-1 group-title="FOOTBALL VIỆT NAM", BLV LIL SHADY 
+https://livestream.waebox.com/live/6cjd6zf2ny/playlist.m3u8 
 #EXTINF:-1 group-title="FOOTBALL VIỆT NAM", BLV CÁ VIÊN
 https://live.sladdogg.com/OBS/11/index.m3u8
 #EXTINF:-1 group-title="FOOTBALL VIỆT NAM", BLV NGƯỜI KIẾN
@@ -170,7 +192,7 @@ http://151.80.18.177:86/Eurosport_HD/index.m3u8
 http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
 #EXTINF:-1 group-title="SPORT",REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 group-title="SPORT",STRONGMAN CHAMPIONS LEAGUE
+#EXTINF:-1 group-title="SPORT",STRONGMAN 
 https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_StrongmanChampionsLeague/e21d95be-bbb1-442c-bd84-71813dc764ce/0.m3u8
 #EXTINF:-1 group-title="SPORT", SPORTS TV
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
