@@ -1,62 +1,12 @@
 #EXTM3U
-#EXTINF:-1 group-title="FOOTBALL VIỆT NAM",TV360 Live
-https://toiyeuvietnam.dpdns.org/CoBan/tv360.live/TuyetDoiKhongKinhDoanh.m3u8
-https://pull.dodotvstream.top/live/830942519.flv
-https://pull.dodotvstream.top/live/785848201.flv
-https://pull.dodotvstream.top/live/313197753.flv
-https://pull.dodotvstream.top/live/355162317.flv
-#EXTINF:-1 group-title="FOOTBALL VIỆT NAM", LIVE ALEX
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai2.m3u8
-#EXTINF:-1 group-title="FOOTBALL VIỆT NAM", LIVE CỤ GIÀ
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhda_full-hd.m3u8
-#EXTINF:-1 group-title="FOOTBALL VIỆT NAM", LIVE CHYM
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1_full-hd.m3u8
-#EXTINF:-1 group-title="FOOTBALL VIỆT NAM", LIVE KHU MẤN
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_lachanh.m3u8
-#EXTINF:-1 group-title="FOOTBALL VIỆT NAM", THIÊN ĐÔ
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_cudo_full-hd.m3u8
-#EXTINF:-1 group-title="FOOTBALL VIỆT NAM", KHOAI TÂY
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_2.m3u8
-#EXTINF:-1 group-title="FOOTBALL VIỆT NAM", VĂN MINH
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3.m3u8
-#EXTINF:-1 group-title="FOOTBALL VIỆT NAM", SÚP LƯƠN
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon.m3u8
-#EXTINF:-1 group-title="FOOTBALL VIỆT NAM", LIVE QUÊ CHOA 
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_3.m3u8
-#EXTINF:-1 group-title="FOOTBALL VIỆT NAM", LIVE QUÊ CHOA 1
-https://live.quechoacdn.live/61d6afe29ba00790787c1565a1bbebc6/blv1/hls_blv1/index.m3u8
-#EXTINF:-1 group-title="FOOTBALL VIỆT NAM", LIVE QUÊ CHOA 2
-https://live.quechoacdn.live/78fe5336e9d38fb54009f284611285d4/blv2/hls_blv2/index.m3u8
-#EXTINF:-1 group-title="FOOTBALL VIỆT NAM", LIVE QUÊ CHOA 3
-https://live.quechoacdn.live/41ba827db6f7fc8006a763bf2b7302ce/blv3/hls_blv3/index.m3u8
-#EXTINF:-1 group-title="FOOTBALL VIỆT NAM", BLV BÚN 
-https://livestream.waebox.com/live/0dq4pt7si9/playlist.m3u8 
-#EXTINF:-1 group-title="FOOTBALL VIỆT NAM", BLV ADAM 
-https://livestream.waebox.com/live/mjap0rrqv8/playlist.m3u8
-#EXTINF:-1 group-title="FOOTBALL VIỆT NAM", BLV TÔM MÌ 
-https://livestream.waebox.com/live/384vepruzs/playlist.m3u8
-#EXTINF:-1 group-title="FOOTBALL VIỆT NAM", BLV BED 
-https://livestream.waebox.com/live/aklh087186/playlist.m3u8
-#EXTINF:-1 group-title="FOOTBALL VIỆT NAM", BLV LIL SHADY 
-https://livestream.waebox.com/live/6cjd6zf2ny/playlist.m3u8 
-#EXTINF:-1 group-title="FOOTBALL VIỆT NAM", BLV CÁ VIÊN
-https://live.sladdogg.com/OBS/11/index.m3u8
-#EXTINF:-1 group-title="FOOTBALL VIỆT NAM", BLV NGƯỜI KIẾN
-https://live.sladdogg.com/OBS/04/index.m3u8
-#EXTINF:-1 group-title="FOOTBALL VIỆT NAM", BLV LÀNG CỒN
-https://live.sladdogg.com/OBS/10/index.m3u8 
-#EXTINF:-1 group-title="FOOTBALL VIỆT NAM", BLV ZORRO
-https://live.sladdogg.com/OBS/07/index.m3u8
-#EXTINF:-1 group-title="FOOTBALL VIỆT NAM", BLV ỐNG BƠ
-https://live.sladdogg.com/OBS/08/index.m3u8
-#EXTINF:-1 group-title="FOOTBALL VIỆT NAM", HTV THỂ THAO 
-https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="BASKETBALL", BLV KING
 https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1767191130-0-0-0ca351f1968649f371c52a6a17246c38
 #EXTINF:-1 group-title="BASKETBALL",BLV CHAN SENA
 https://live.inplyr.com/room/515530.m3u8
 #EXTINF:-1 group-title="BASKETBALL", BLV BRIAN
 https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1766744189-0-0-ac4779c6f88ad715ba319ad51854c925
+#EXTINF:-1 group-title="BASKETBALL", PHAN CÁO
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8|Referer=https://sv2.hoiquan.live/
 #EXTINF:-1 group-title="BASKETBALL", BLV LÝ QUỲ
 https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
 #EXTINF:-1 group-title="BASKETBALL", BLV SHIN
@@ -67,8 +17,95 @@ https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d9
 https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1767486390-0-0-dadecb45d54897affa70b5176579b53d
 #EXTINF:-1 group-title="BASKETBALL", BLV HUNTER
 https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1767947011-0-0-ffde739c49aeaa1993c3158a2b3940e8
-https://pull.dodotvstream.top/live/335163159.flv
-https://pull.dodotvstream.top/live/290535876.flv
+#EXTINF:-1 group-title="BASKETBALL", PHAN MÃO
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8|Referer=https://sv2.hoiquan.live/
+
+#EXTINF:-1 group-title="VOLLEYBALL", LIVE CỤ GIÀ
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhda_full-hd.m3u8
+#EXTINF:-1 group-title="VOLLEYBALL", LIVE ALEX
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai2.m3u8
+#EXTINF:-1 group-title="VOLLEYBALL", LIVE CHYM
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1_full-hd.m3u8
+#EXTINF:-1 group-title="VOLLEYBALL", BÚN CHẢ
+https://pjoo0925.edgemaxcdn.org/live/91537_stream/playlist.m3u8|Referer=https://hoadaotv.org/ 
+#EXTINF:-1 group-title="VOLLEYBALL", PHAN HẢI
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanhai/playlist.m3u8|Referer=https://sv2.hoiquan.live/
+#EXTINF:-1 group-title="VOLLEYBALL", PHAN CẬU CẢ
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancauca/playlist.m3u8|Referer=https://sv2.hoiquan.live/
+#EXTINF:-1 group-title="VOLLEYBALL", MÈO BÉO 
+https://pjoo0925.edgemaxcdn.org/live/63958_stream/playlist.m3u8|Referer=https://hoadaotv.org/
+#EXTINF:-1 group-title="VOLLEYBALL", CHIM NHỎ 
+https://pjoo0925.edgemaxcdn.org/live/28469_stream/playlist.m3u8|Referer=https://hoadaotv.org/
+#EXTINF:-1 group-title="VOLLEYBALL", GẠO NẾP
+https://pjoo0925.edgemaxcdn.org/live/48391_stream/playlist.m3u8|Referer=https://hoadaotv.org/
+
+#EXTINF:-1 group-title="FOOTBALL",TV360 Live
+https://toiyeuvietnam.dpdns.org/CoBan/tv360.live/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 group-title="FOOTBALL", LIVE KHU MẤN
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_lachanh.m3u8
+#EXTINF:-1 group-title="FOOTBALL", THIÊN ĐÔ
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_cudo_full-hd.m3u8
+#EXTINF:-1 group-title="FOOTBALL", KHOAI TÂY
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_2.m3u8
+#EXTINF:-1 group-title="FOOTBALL", VĂN MINH
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3.m3u8
+#EXTINF:-1 group-title="FOOTBALL", SÚP LƯƠN
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon.m3u8
+#EXTINF:-1 group-title="FOOTBALL", LIVE QUÊ CHOA 
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_3.m3u8
+#EXTINF:-1 group-title="FOOTBALL", LIVE QUÊ CHOA 1
+https://live.quechoacdn.live/61d6afe29ba00790787c1565a1bbebc6/blv1/hls_blv1/index.m3u8
+#EXTINF:-1 group-title="FOOTBALL", LIVE QUÊ CHOA 2
+https://live.quechoacdn.live/78fe5336e9d38fb54009f284611285d4/blv2/hls_blv2/index.m3u8
+#EXTINF:-1 group-title="FOOTBALL", LIVE QUÊ CHOA 3
+https://live.quechoacdn.live/41ba827db6f7fc8006a763bf2b7302ce/blv3/hls_blv3/index.m3u8
+#EXTINF:-1 group-title="FOOTBALL", PHÁO
+https://pjoo0925.edgemaxcdn.org/live/76042_stream/playlist.m3u8|Referer=https://hoadaotv.org/
+#EXTINF:-1 group-title="FOOTBALL", TRÀ ĐÁ
+https://pjoo0925.edgemaxcdn.org/live/17089_stream/playlist.m3u8|Referer=https://hoadaotv.org/
+#EXTINF:-1 group-title="FOOTBALL", HẠT TIÊU
+https://pjoo0925.edgemaxcdn.org/live/17084_stream/playlist.m3u8|Referer=https://hoadaotv.org/
+#EXTINF:-1 group-title="FOOTBALL", PHAN CA
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8|Referer=https://sv2.hoiquan.live/
+#EXTINF:-1 group-title="FOOTBALL", PHAN TÔM
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phantom/playlist.m3u8|Referer=https://sv2.hoiquan.live/
+#EXTINF:-1 group-title="FOOTBALL", THIÊN LÔI
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_thienloi/playlist.m3u8|Referer=https://sv2.hoiquan.live/
+#EXTINF:-1 group-title="FOOTBALL", PHAN MÃ
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanma/playlist.m3u8|Referer=https://sv2.hoiquan.live/
+#EXTINF:-1 group-title="FOOTBALL", PHAN SON
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanson/playlist.m3u8|Referer=https://sv2.hoiquan.live/
+#EXTINF:-1 group-title="FOOTBALL", PHAN CHÈ
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanche/playlist.m3u8|Referer=https://sv2.hoiquan.live/
+#EXTINF:-1 group-title="FOOTBALL", PHAN SẾU
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanseu/playlist.m3u8|Referer=https://sv2.hoiquan.live/
+#EXTINF:-1 group-title="FOOTBALL", PHAN BÁO
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbao/playlist.m3u8|Referer=https://sv2.hoiquan.live/
+#EXTINF:-1 group-title="FOOTBALL", CỦ HÀNH
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_cuhanh/playlist.m3u8|Referer=https://sv2.hoiquan.live/
+#EXTINF:-1 group-title="FOOTBALL", BLV BÚN 
+https://livestream.waebox.com/live/0dq4pt7si9/playlist.m3u8 
+#EXTINF:-1 group-title="FOOTBALL", BLV ADAM 
+https://livestream.waebox.com/live/mjap0rrqv8/playlist.m3u8
+#EXTINF:-1 group-title="FOOTBALL", BLV TÔM MÌ 
+https://livestream.waebox.com/live/384vepruzs/playlist.m3u8
+#EXTINF:-1 group-title="FOOTBALL", BLV BED 
+https://livestream.waebox.com/live/aklh087186/playlist.m3u8
+#EXTINF:-1 group-title="FOOTBALL", BLV LIL SHADY 
+https://livestream.waebox.com/live/6cjd6zf2ny/playlist.m3u8 
+#EXTINF:-1 group-title="FOOTBALL", BLV CÁ VIÊN
+https://live.sladdogg.com/OBS/11/index.m3u8
+#EXTINF:-1 group-title="FOOTBALL", BLV NGƯỜI KIẾN
+https://live.sladdogg.com/OBS/04/index.m3u8
+#EXTINF:-1 group-title="FOOTBALL", BLV LÀNG CỒN
+https://live.sladdogg.com/OBS/10/index.m3u8 
+#EXTINF:-1 group-title="FOOTBALL", BLV ZORRO
+https://live.sladdogg.com/OBS/07/index.m3u8
+#EXTINF:-1 group-title="FOOTBALL", BLV ỐNG BƠ
+https://live.sladdogg.com/OBS/08/index.m3u8
+#EXTINF:-1 group-title="FOOTBALL", HTV THỂ THAO 
+https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
+
 #EXTINF:-1 group-title="TENNIS", LIVE TENNIS 1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
 #EXTINF:-1 group-title="TENNIS", LIVE TENNIS 2
@@ -206,4 +243,3 @@ https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8
 https://streams2.sofast.tv/WiseM3U8_18/sofast/cleanhls/master.m3u8 
 #EXTINF:-1 group-title="SPORT", SONY TEN
 http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=7245&deviceMac=00:1A:79:B0:A9:0C 
-
