@@ -20,9 +20,9 @@ https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1767947011-0-0-ffde
 #EXTINF:-1 group-title="BASKETBALL", PHAN MÃO
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8|Referer=https://sv2.hoiquan.live/
 
-#EXTINF:-1 group-title="VOLLEYBALL", LIVE CỤ GIÀ
+#EXTINF:-1 group-title="VOLLEYBALL", CỤ GIÀ
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhda_full-hd.m3u8|Referer=https://quechoa2.live/
-#EXTINF:-1 group-title="VOLLEYBALL", LIVE ALEX
+#EXTINF:-1 group-title="VOLLEYBALL", ALEX
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai2.m3u8|Referer=https://quechoa2.live/
 #EXTINF:-1 group-title="VOLLEYBALL", LIVE CHYM
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1_full-hd.m3u8|Referer=https://quechoa2.live/
@@ -39,9 +39,9 @@ https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancauca/playlist.m3u8|Referer=ht
 
 #EXTINF:-1 group-title="FOOTBALL",TV360 Live
 https://toiyeuvietnam.dpdns.org/CoBan/tv360.live/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 group-title="FOOTBALL", LIVE KHU MẤN
+#EXTINF:-1 group-title="FOOTBALL",  THIÊN ĐÔ
 https://live.quechoacdn.live/61d6afe29ba00790787c1565a1bbebc6/blv1/hls_blv1/index.m3u8|Referer=https://quechoa2.live/
-#EXTINF:-1 group-title="FOOTBALL", THIÊN ĐÔ
+#EXTINF:-1 group-title="FOOTBALL", KHU MẤN
 https://live.quechoacdn.live/78fe5336e9d38fb54009f284611285d4/blv2/hls_blv2/index.m3u8|Referer=https://quechoa2.live/
 #EXTINF:-1 group-title="FOOTBALL", KHOAI TÂY
 https://live.quechoacdn.live/41ba827db6f7fc8006a763bf2b7302ce/blv3/hls_blv3/index.m3u8|Referer=https://quechoa2.live/
@@ -49,16 +49,16 @@ https://live.quechoacdn.live/41ba827db6f7fc8006a763bf2b7302ce/blv3/hls_blv3/inde
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3.m3u8|Referer=https://quechoa2.live/
 #EXTINF:-1 group-title="FOOTBALL", SÚP LƯƠN
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon.m3u8|Referer=https://quechoa2.live/
-#EXTINF:-1 group-title="FOOTBALL", LIVE QUÊ CHOA 
+#EXTINF:-1 group-title="FOOTBALL", QUÊ CHOA 
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_3.m3u8|Referer=https://quechoa2.live/
 #EXTINF:-1 group-title="FOOTBALL", PHÁO THẦN
 https://pjoo0925.edgemaxcdn.org/live/76042_stream/playlist.m3u8|Referer=https://hoadaotv.org/
 #EXTINF:-1 group-title="FOOTBALL", GẠO NẾP
 https://pjoo0925.edgemaxcdn.org/live/48391_stream/playlist.m3u8|Referer=https://hoadaotv.org/
-#EXTINF:-1 group-title="FOOTBALL", TRÀ ĐÁ
-https://pjoo0925.edgemaxcdn.org/live/17089_stream/playlist.m3u8|Referer=https://hoadaotv.org/
 #EXTINF:-1 group-title="FOOTBALL", HẠT TIÊU
 https://pjoo0925.edgemaxcdn.org/live/17084_stream/playlist.m3u8|Referer=https://hoadaotv.org/
+#EXTINF:-1 group-title="FOOTBALL", TRÀ ĐÁ
+https://pjoo0925.edgemaxcdn.org/live/17089_stream/playlist.m3u8|Referer=https://hoadaotv.org/
 #EXTINF:-1 group-title="FOOTBALL", PHAN CA
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8|Referer=https://sv2.hoiquan.live/
 #EXTINF:-1 group-title="FOOTBALL", PHAN TÔM
