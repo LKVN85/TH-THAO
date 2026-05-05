@@ -1,10 +1,16 @@
 #EXTM3U
 #EXTINF:-1 group-title="SAOKETV", CHI PHEO
-https://wtyi0525.edgemaxcdn.org/live/x10y3-0086/playlist.m3u8|Referer=https://saoketv36.xyz/
+#EXTVLCOPT:http-origin=https://saoketv36.xyz/
+#EXTVLCOPT:http-referer=https://saoketv36.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+https://wtyi0525.edgemaxcdn.org/live/x10y3-0086/playlist.m3u8
 #EXTINF:-1 group-title="SAOKETV", BANH BAO
-https://wtyi0525.edgemaxcdn.org/live/x20y3-1660/playlist.m3u8|Referer=https://saoketv36.xyz/
+#EXTVLCOPT:http-origin=https://saoketv36.xyz/
+#EXTVLCOPT:http-referer=https://saoketv36.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+https://wtyi0525.edgemaxcdn.org/live/x20y3-1660/playlist.m3u8
 #EXTINF:-1 group-title="SAOKETV", BANH MY
-https://wtyi0525.edgemaxcdn.org/live/x16y3-0815/playlist.m3u8|Referer=https://saoketv36.xyz/
+https://wtyi0525.edgemaxcdn.org/live/x16y3-0815/playlist.m3u8|Referer=https://tructiep16.saoketv34.xyz/
 #EXTINF:-1 group-title="SAOKETV", DUNKEST
 https://pull.globalcdnnetworksc2031.info/str01/blv-mr-dunkest/index.m3u8
 #EXTINF:-1 group-title="CAKHIATV", DERICE
